@@ -1,4 +1,74 @@
 :root{
-    --PRIMARY-COLOR:#c4b5fd;
-    
+    --PRIMARY:rgb(255,255,255);
+    /* --secondary-color:; */
+    --ACCENT-COLOR:#fab75f;
+    --ACCENT-COLOR-LIGHT:#fed7aa;
+    --GREY:#6c757d;
+    --GREY-DARK:#343a40;
+    --PURE-BLACK:#212529;
+    --PURE-WHITE:#ffffff;
+    --BREAKPOINT-SML: 576px;
+    --BREAKPOINT-MED: 768px;
+    --BREAKPOINT-LRG: 992px;
+    --BREAKPOINT-XL: 1200px;
+    --GREY-LIGHT:#D3D3D3;
+    --SLATE-50:#f8fafc;
+    --STONE-100:#F5F5F4;
+    --VIOLET-300:#c4b5fd;
+    --VIOLET-100:#ede9fe;
+
+}
+/* Default stylings and resetting */
+
+body{
+background-color: var(--VIOLET-100);
+}
+a{
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Utility Classes */
+.text-accent{
+    color: var(--ACCENT-COLOR);
+}
+.text-black{
+    color:var(--PURE-BLACK);
+}
+.text-shadow {
+    text-shadow: 6px 6px 0px rgba(0, 0, 0, 0.2);
 }
