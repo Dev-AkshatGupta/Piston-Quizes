@@ -110,6 +110,11 @@ a{
     align-items: center;
     justify-content: space-evenly;
 }
+.flex-end-space-betw{
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+}
 .flex-wrap{
     flex-wrap: wrap;
 }
