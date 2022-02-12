@@ -1,0 +1,9 @@
+.car-icon-list{}
+.car-icon-list>li{
+    list-style: none;
+
+}
+.car-icon-list>li>i{
+   margin-right: 1rem;
+  font-size: 2rem;
+}
