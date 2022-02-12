@@ -27,7 +27,7 @@ background-color: var(--VIOLET-50);
 }
 a{
     text-decoration: none;
-    color:#000000;
+    color:var(--DARK-BLACK);
 }
 
 
