@@ -133,6 +133,9 @@ a{
 .width-100{
     width: 100%;
 }
+.width-150{
+    width: 150rem;
+}
 .width-30{
     width: 30rem;
 }
