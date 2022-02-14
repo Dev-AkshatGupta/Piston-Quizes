@@ -15,5 +15,5 @@
 }
 .text-ques-options:hover,.text-ques-options:focus{
     background: var(--ACCENT-COLOR-LIGHT);
-    transform: scale(1.2);   
+    transform: scale(1.06);   
 }
