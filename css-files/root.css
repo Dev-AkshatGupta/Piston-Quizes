@@ -128,10 +128,12 @@ a{
 }
 
 
-
 /* width of the div */
 .width-100{
     width: 100%;
+}
+.width-150{
+    width: 150rem;
 }
 .width-30{
     width: 30rem;
@@ -187,5 +189,7 @@ a{
 .divider-2{
     height: 2px;
     background-color: var(--GREY-LIGHT);
+    width: 100%;
 }
+
 
